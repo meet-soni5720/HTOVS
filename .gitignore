@@ -1,0 +1,6 @@
+__pycache__
+video_tracking_output
+frames
+*.mp4
+*.pt
+*.pth
